@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'zomoto.wsgi.application'
 # }
 
 DATABASES={
-    'default':dj_database_url.parse("postgres://python_test_ch8k_user:bAmNqFBjQCcYmI7QEOcTtIe6CqaIR4qL@dpg-cjb33s3bq8nc73b835l0-a/python_test_ch8k")
+    'default':dj_database_url.parse("postgres://dtabase_user:U037R2AefH3DtVvTHBHYAY57P4CqVRfO@dpg-cjb462gcfp5c73ahouag-a/dtabase")
 }
 
 # Password validation
